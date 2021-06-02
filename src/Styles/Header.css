@@ -1,0 +1,12 @@
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left : 30px;
+    margin-right : 30px;
+    margin-top : 20px;
+}
+.header_logo{
+    object-fit : contain;
+    height : 40px;
+  }
